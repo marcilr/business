@@ -11,6 +11,9 @@ business.txt
 links.txt
   Business related links
 
+manifest
+  Manifest file for use by resync script
+
 pdf/
   Portable Document Format files
 
