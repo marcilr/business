@@ -1,0 +1,10 @@
+#.gitignore
+# Created Wed Oct  2 07:59:31 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+libreoffice/
+ocr/
+office/
